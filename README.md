@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Gian-8bit
 - 👀 I’m interested in code and algorithms!
-- 🌱 I’m currently learning C
+- 🌱 I’m currently learning web application programming
 
 <!---
 Gian-8bit/Gian-8bit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
