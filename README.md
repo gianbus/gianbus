@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Gian-8bit
+- 👋 Hi, I’m @gianpaolobusillo
 - 👀 I’m interested in code and algorithms!
 - 🌱 I’m currently learning web application programming
 
